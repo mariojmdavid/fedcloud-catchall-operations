@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2019-07-05T07:46:27.756452+01:00"
+entries:
+  fedcloud-ops:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-07-05T07:49:05.291656+01:00"
+    description: FedCloud catchall operations helm chart for Kubernetes
+    digest: fbe8e7a7e7409179ac667eccb12dce2db1214f0d813cae1a48a26b2ef35cb67d
+    name: fedcloud-ops
+    urls:
+    - https://egi-foundation.github.io/egi-fedcloud-operations/fedcloud-ops-0.1.0-aacb53e.tgz
+    version: 0.1.0-aacb53e
+generated: "2019-07-05T07:49:05.29042+01:00"
