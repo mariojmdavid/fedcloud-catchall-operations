@@ -8,7 +8,7 @@ entries:
     digest: fbe8e7a7e7409179ac667eccb12dce2db1214f0d813cae1a48a26b2ef35cb67d
     name: fedcloud-ops
     urls:
-    - https://egi-foundation.github.io/egi-fedcloud-operations/fedcloud-ops-0.1.0-aacb53e.tgz
+    - https://egi-foundation.github.io/fedcloud-catchall-operations/fedcloud-ops-0.1.0-aacb53e.tgz
     version: 0.1.0-aacb53e
   - apiVersion: v1
     appVersion: "1.0"
@@ -26,7 +26,7 @@ entries:
     digest: 6aa2c8a429f8ca1ccb0b02cabbaab749061154b39927a3c8a1f0f26e67033462
     name: fedcloud-ops
     urls:
-    - https://egi-foundation.github.io/egi-fedcloud-operations/fedcloud-ops-0.1.0-627d56a.tgz
+    - https://egi-foundation.github.io/fedcloud-catchall-operations/fedcloud-ops-0.1.0-627d56a.tgz
     version: 0.1.0-627d56a
   - apiVersion: v1
     appVersion: "1.0"
@@ -35,6 +35,6 @@ entries:
     digest: 3748bf5f6c57e5fbcbf9254beb6e00619141aafdf84bedcceccde0c1702ea1b5
     name: fedcloud-ops
     urls:
-    - https://egi-foundation.github.io/egi-fedcloud-operations/fedcloud-ops-0.1.0-2ee5ca7.tgz
+    - https://egi-foundation.github.io/fedcloud-catchall-operations/fedcloud-ops-0.1.0-2ee5ca7.tgz
     version: 0.1.0-2ee5ca7
 generated: "2019-09-13T11:24:00.249869+01:00"
